@@ -1,0 +1,73 @@
+1.algebra
+quadrant 4 ခုရှိတယ်။ အပိုင်းတွေကိုပြောတာ   II   I
+                                     III IV
+if x=1,y=5 is in frist quadrant x တန်ဖိုးရောyတန်ဖိုးရောနှစ်ခုလုံး အပေါင်းတန်ဖိုးဆိုရင် first quadrant
+
+
+2.linear equation and non-linear equation
+geogebra.org
+
+
+data အချက်အလက် တွေကို graphical နည်းအရ linear အတိုင်းဖော်ပြပေးတာကို linear လို့ခေါ်တယ်
+linear equation ဖြစ်ကြောင်း ဆန်းစစ်ချင်ရင် x value y value တွေကို တစ်ခုကို အသေထားပြီးနောက်တစ်ခုကို equation ကနေတွက်ထုတ်ရမယ်
+x=0ကနေစထည့်ရမယ် 
+pointတွေကိုဖြတ်ဆွဲလိုက်ချိန်မှာ straight line တစ်ခုပေါ်မှာရှိရမယ်အာ့တာဆို linear equationဖြစ်တယ် မဟုတ်ရင် non-linear equationဖြစ်တယ်
+
+y=2x-3
+4x-3y=12
+
+3.intercepts
+x ဝင်ရိုးကိုဖြတ်သွားရင် x intercepts
+y ဝင်ရိုးကိုဖြတ်သွားရင် y intercepts
+y= 1/2 x - 3
+for above equation,
+တန်ဖိုးတွေကိုနှစ်ခုကျော်ပြီးအစားထိုးတွက်သွားမယ်
+x intercepts -3
+y intercepts 6
+
+4.slope = change in y/change in x
+graphတစ်ခုသည် အထက်မှအောက်သို့ထိုးကျလာသည့်အချိန်မျိုး သို့မဟုတ် အောက်မှ
+အထက်သို့တိုးတက်သွားသည့်အချိန်မျိုးလည်း ရှိတတ်သည်။
+ထိုကြားမှ x y အကွာအဝေးကို slope ဟုရှာနိုင်သည်။
+m = ^y/^x ---> ^ means dalta
+x တန်ဖိုး y တန်ဖိုးတစ်ခုတည်းဖြစ်ချိန်တွင်
+
+x တန်ဖိုး y တန်ဖိုးနှစ်ခုဖြစ်ချိန်တွင်
+m = y2 - y1/x2-x1
+(4,2) (-3,16)
+slope = -2
+
+5.Linear Regression ဆိုသည်မှာ Machine learning ဆိုသည်မှာ data တွေနဲ့ပတ်သတ်ပြီး predict လုပ်တဲ့နေရာမှာနာမည်ကြီးတဲ့ algorithmတစ်ခုဖြစ်တယ်။
+Least square method or least square regression လို့ခေါ်တဲ့ဟာကိုအရင်သိရမယ်။
+equation in picture
+m = nExy - Ex Ey/nEx2 - (Ex)2
+where E is summation(ဆိုတာပေါင်းတာ x နဲ့ y မြှောက်ပြီးတော့ ပေါင်းရမှာဖြစ်တယ် )
+2 is square
+n is no of variable
+******Least Squares သည် ရရှိထားသော dataset များအပေါ်မှာ regression analysis ကိုအသုံးပြုပြီး line of best fit ကို ဆွဲတဲ့နေရာမှာ အသုံးပြုတဲ့ method တစ်ခုဖြစ်ပါသည်။ Data point တစ်ခုချင်းစီဟာလည်း dependent variable and independent variable ရဲ့
+ဆက်စပ်မှုကိုဖော်ပြပါတယ်။ ဉပမာ - ဆိုင်တစ်ဆိုင်မှာ ပန်းသီး တစ်သောင်းဖိုးဝယ်ရင် ပန်းသီး ၁၀လုံးပြန်ရပါတယ်။ ပိုက်ဆံတစ်သောင်းသည် x (independent) ဖြစ်ပြီး ပန်းသီးသည် x များရင် များသလို လိုက်ပြောင်းနေမှာဖြစ်တဲ့အတွက် y (depended) ဖြစ်တယ် 
+ထို့ကြောင့် Regression analysis မှာ dependent variables ကို vertical y မှာဖော်ပြပြီး independent variables ကို horizontal x axis မှာဖော်ပြတယ်။ 
+10 = 10000
+12 = 12000
+13 = 13000
+L.H.S ကများလာရင် R.H.S ဘက်ကနေလည်းလိုက်ပြီးတော့များလာမယ်ဆိုတဲ့သဘောကိုဆိုလိုခြင်းဖြစ်သည်။ 
+L.H.S value ကို indenpendent variable လို့ခေါ်ပြီးတော့
+R.H.S value ကို dependent variable လို့ခေါ်တယ်။
+y = mx+b
+
+Line of best fit 
+ဆိုသည်မှာ ဉပမာ - လိုင်းမှတ်ထားတဲ့ Point data တွေကနေဖြတ်ပြီးတော့ဆွဲလိုက်မယ်ဆိုရင် ဆွဲလိုက်တဲ့မျဉ်းသည် data point လေးတွေနဲ့နီးနီးကပ်ကပ်ရှိနေရမယ် အဲ့မျဉ်းကို line of best fit လို့ခေါ်ခြင်းဖြစ်တယ်။
+eg: 
+x= 1,2,3,4,5,6,7
+y=1.5,3.8,6.7,9,11.2,13.6,16
+above sample data
+ဉပမာ - x ကရုပ်ရှင်ကားအတွက်အသုံးပြုလိုက်တဲ့ငွေ y က ထိုကားမှပြန်ရမဲ့ အမြတ်
+ဥပမာ - ရုပ်ရှင်ကားအတွက်သိန်း ၃၀၀ အသုံးပြုလိုက်တယ်ဆိုရင် y အမြတ်ငွေအနေနဲ့ ၆၇၀ပြန်မြတ်တာမျိုး 
+ဉပမာ - အဲ့ရုပ်ရှင်ကားမှာ သိန်း ၁၀၀ သုံးလိုက်ရင်ဘလောက်မြတ်လောက်မလဲဆိုတာမျိုးကိုရှာတာ
+----------------------------------------------------------------------------
+Finding Slope (m)
+y=mx+b equation ကနေ m ကိုရှာမယ်
+n = 7 ဖြစ်မယ်
+
+#
+https://studygyaan.com/data-science-ml/linear-regression-machine-learning-project-for-house-price-prediction
