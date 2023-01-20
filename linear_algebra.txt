@@ -71,3 +71,4 @@ n = 7 ဖြစ်မယ်
 
 #
 https://studygyaan.com/data-science-ml/linear-regression-machine-learning-project-for-house-price-prediction
+https://www.mathsisfun.com/data/least-squares-regression.html
